@@ -1,0 +1,12 @@
+main {
+  padding: 16px;
+  width: 100%;
+}
+
+.title {
+  margin-right: 16px;
+}
+
+.spacer {
+  flex: 1;
+}
