@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection
-  azureSubscription: 'ac0e59a6-28d9-49f9-b535-34644242400c'
+  azureSubscription: '2c9f8d19-81ca-4754-8043-1030fdc1d7dd'
   
   # Web app name
   webAppName: 'jaminda-sql-rp-test'
